@@ -71,4 +71,4 @@ Notice how the call to the `present()` method (which will return your new or cac
 
 Have fun!
 
-Credits to: Jerico @ [https://laracasts.com](https://laracasts.com)
+Credits to: Jerico @ [https://packagist.org/packages/laracasts/presenter](https://packagist.org/packages/laracasts/presenter)
